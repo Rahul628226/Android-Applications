@@ -1,0 +1,2 @@
+com/example/chatbox/BuildConfig.java
+ com.example.chatbox.BuildConfig
